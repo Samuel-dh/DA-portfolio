@@ -16,7 +16,7 @@ Personal Projects include:
 
 E-Commerce sales data RFM analysis with K-means clustering Machine learning model.
 
-[**Sales predicton ML model**](sales performance project.md)
+[**Sales predicton ML model**](sales_prediction.md)
 
 Sales prediction time series analysis using prophet library.
 
