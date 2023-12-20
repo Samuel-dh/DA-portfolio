@@ -8,5 +8,6 @@ My journey began from completing data analysis python courses in coursera. After
 Projects include: (click titles below to view projects)
 
 [**customer segmentation with ML Models**](rfm_clustering_analysis.md)
+
 E-Commerce sales data RFM analysis with K-means clustering Machine learning model.
 
