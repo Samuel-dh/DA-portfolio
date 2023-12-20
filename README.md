@@ -8,7 +8,9 @@ My journey began from completing data analysis python courses in coursera. After
 (click titles below to view projects)
 
 coursera projects include:
+[**Sales predicton ML model**](tiktok_classification.md)
 
+tiktok content classification analysis using random forest Machine learning models
 
 Personal Projects include: 
 
@@ -19,6 +21,7 @@ E-Commerce sales data RFM analysis with K-means clustering Machine learning mode
 [**Sales predicton ML model**](sales_prediction.md)
 
 Sales prediction time series analysis using prophet library.
+
 
 
 
