@@ -7,12 +7,13 @@ My journey began from completing data analysis python courses in coursera. After
 
 (click titles below to view projects)
 
-coursera projects include:
+**_coursera projects include:_**
+
 [**Sales predicton ML model**](tiktok_classification.md)
 
 tiktok content classification analysis using random forest Machine learning models
 
-Personal Projects include: 
+**_Personal Projects include:_** 
 
 [**customer segmentation with ML Models**](rfm_clustering_analysis.md)
 
