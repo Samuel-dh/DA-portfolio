@@ -8,7 +8,7 @@ My journey began from completing data analysis python courses in coursera. After
 (click titles below to view projects)
 **_Power BI Dashboards:_** 
 
-[**RFM customer segmentation**](customer segmentation dashboard.ipynb)
+[**RFM customer segmentation**](customer segmentation dashboard 2.md)
 
 
 **_coursera projects include:_**
