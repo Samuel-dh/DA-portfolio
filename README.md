@@ -6,6 +6,10 @@ welcome to my portfolio showcasing my Data analysis projects
 My journey began from completing data analysis python courses in coursera. After completing several courses with certificates I have slowly branched out, and began to explore different machine learning models that can be applied into different scenarios. 
 
 (click titles below to view projects)
+**_Power BI Dashboards:_** 
+
+[**RFM customer segmentation**](customer segmentation dashboard.ipynb)
+
 
 **_coursera projects include:_**
 
