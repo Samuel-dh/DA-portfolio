@@ -39,7 +39,7 @@ dataset.insert(4, "predictions", rf_classifier.predict(X))
 
 
 # Confusion Matrix Visualization
-# ![title](capture.PNG)
+# ![title](Capture.PNG)
 
 
 ```python
